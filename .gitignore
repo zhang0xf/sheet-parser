@@ -1,1 +1,5 @@
+# folder
 bin
+
+# workspace
+*.code-workspace
